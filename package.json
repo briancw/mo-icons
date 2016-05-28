@@ -1,0 +1,13 @@
+{
+  "name": "mo-icons",
+  "main": "./styles/mo-icons.less",
+  "version": "0.0.0",
+  "description": "Adds some more icons to the sidebar",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/mo-icons",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+}
